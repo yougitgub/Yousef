@@ -133,7 +133,7 @@ element.style {
     font-size: var(--bs-btn-font-size);
     font-weight: var(--bs-btn-font-weight);
     line-height: var(--bs-btn-line-height);
-    color: #fff;
+    color: black;
     text-align: center;
     text-decoration: none;
     vertical-align: middle;
